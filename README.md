@@ -10,5 +10,5 @@ model-building-lab is a Python module for structuring, simplifying and accelerat
     pip install model-building-lab
 
 ### Source code
-git clone https://github.com/YoungWheeLee/model-building-lab.git
+    git clone https://github.com/YoungWheeLee/model-building-lab.git
 
